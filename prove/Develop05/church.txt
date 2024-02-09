@@ -1,0 +1,1 @@
+SimpleGoal: Pass sacrament, Attend church early, 120, False

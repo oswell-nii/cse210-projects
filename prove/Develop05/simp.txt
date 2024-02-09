@@ -1,0 +1,4 @@
+SimpleGoal, simp, we eat, 5, True
+EternalGoal, don't fold, study, 10
+ChecklistGoal, check my babe, call each day, 20, 1, 3, 15
+Score: 45

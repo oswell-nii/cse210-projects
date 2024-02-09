@@ -56,12 +56,12 @@ public class Journal
                 int _mood = int.Parse(parts[3].Trim());
 
                 Entry entry = new Entry
-            {
+                {
                 _date = _date,
                 _promptText = _promptText,
                 _entryText = _entryText,
                 _mood = _mood
-            };
+                };
             _entries.Add(entry);
             }
             

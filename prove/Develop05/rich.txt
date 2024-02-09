@@ -1,0 +1,3 @@
+SimpleGoal: Give a talk, Speak at church, 25, False
+EternalGoal, Study scriptures, Study for 10 mins, 35
+ChecklistGoal, Attend temple, Perform ordinance, 50, 0, 6, 25

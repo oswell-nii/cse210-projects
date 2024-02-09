@@ -1,0 +1,4 @@
+SimpleGoal, Save money, Contribute $50 each month, 10, True
+EternalGoal, Take sacrament, Prepare to partake each Sunday, 20
+ChecklistGoal, Go to market, Buy food each day, 30, 3, 3, 30
+Score: 100

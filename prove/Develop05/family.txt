@@ -1,0 +1,3 @@
+SimpleGoal: Oswell's time, Learn, 30, False
+EternalGoal, Eternity time, Sealing, 50
+ChecklistGoal, Family goal, Pray together, 100, 0, 5, 50

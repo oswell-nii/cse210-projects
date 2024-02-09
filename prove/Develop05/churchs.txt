@@ -1,0 +1,4 @@
+SimpleGoal, Eat food, Cook and eat, 50, True
+EternalGoal, Study scripture, study 8 mins each day, 100
+ChecklistGoal, Attend church, Prepare to attend each day, 150, 1, 4, 20
+Score: 200

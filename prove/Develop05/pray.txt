@@ -1,0 +1,1 @@
+SimpleGoal: Friday goal, Pray, 100, False

@@ -1,0 +1,1 @@
+SimpleGoal: Scripture Study, Study each day, 50, System.Func`1[System.Boolean]
